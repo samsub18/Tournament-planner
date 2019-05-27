@@ -1,6 +1,6 @@
 import pygame,sys
 
-pygame.init()
+
 
 size = w,h = 1000,1000  # Screen size
 
